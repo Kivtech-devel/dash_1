@@ -8,3 +8,5 @@ $("input.variation").on("click", function() {
 		$("footer").attr("class", "");
 	}
 });
+
+console.log(' Not yet connected to API');
